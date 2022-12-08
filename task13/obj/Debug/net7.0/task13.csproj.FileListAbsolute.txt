@@ -1,0 +1,15 @@
+/Users/evgenijfilatov/Desktop/GB/C#_HW_2_semin/task13/bin/Debug/net7.0/task13
+/Users/evgenijfilatov/Desktop/GB/C#_HW_2_semin/task13/bin/Debug/net7.0/task13.deps.json
+/Users/evgenijfilatov/Desktop/GB/C#_HW_2_semin/task13/bin/Debug/net7.0/task13.runtimeconfig.json
+/Users/evgenijfilatov/Desktop/GB/C#_HW_2_semin/task13/bin/Debug/net7.0/task13.dll
+/Users/evgenijfilatov/Desktop/GB/C#_HW_2_semin/task13/bin/Debug/net7.0/task13.pdb
+/Users/evgenijfilatov/Desktop/GB/C#_HW_2_semin/task13/obj/Debug/net7.0/task13.csproj.AssemblyReference.cache
+/Users/evgenijfilatov/Desktop/GB/C#_HW_2_semin/task13/obj/Debug/net7.0/task13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgenijfilatov/Desktop/GB/C#_HW_2_semin/task13/obj/Debug/net7.0/task13.AssemblyInfoInputs.cache
+/Users/evgenijfilatov/Desktop/GB/C#_HW_2_semin/task13/obj/Debug/net7.0/task13.AssemblyInfo.cs
+/Users/evgenijfilatov/Desktop/GB/C#_HW_2_semin/task13/obj/Debug/net7.0/task13.csproj.CoreCompileInputs.cache
+/Users/evgenijfilatov/Desktop/GB/C#_HW_2_semin/task13/obj/Debug/net7.0/task13.dll
+/Users/evgenijfilatov/Desktop/GB/C#_HW_2_semin/task13/obj/Debug/net7.0/refint/task13.dll
+/Users/evgenijfilatov/Desktop/GB/C#_HW_2_semin/task13/obj/Debug/net7.0/task13.pdb
+/Users/evgenijfilatov/Desktop/GB/C#_HW_2_semin/task13/obj/Debug/net7.0/task13.genruntimeconfig.cache
+/Users/evgenijfilatov/Desktop/GB/C#_HW_2_semin/task13/obj/Debug/net7.0/ref/task13.dll
